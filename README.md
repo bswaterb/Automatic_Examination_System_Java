@@ -52,3 +52,5 @@ Eclipse中采用了WindowBuilder插件进行GUI开发
 代码质量低，还请来围观的大佬嘴下留情。
 就这样。
 
+参考资料：
+Java实现小学四则运算练习系统（UI）https://www.cnblogs.com/dwxuan/p/8711505.html
